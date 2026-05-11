@@ -2,7 +2,7 @@
 
 A beginner-friendly end-to-end data analysis project using the classic
 **Sample Superstore** dataset. The project covers data cleaning, SQL-based
-exploration, and Python visualizations — ideal for building a portfolio or
+exploration, and Python visualizations, ideal for building a portfolio or
 learning the data analytics workflow.
 
 ---
